@@ -1,3 +1,4 @@
+alert("Hello My Awais Niaz From SMIT!")
 alert("Hello World!")
 alert("Coding World!")
 alert("boos !")
